@@ -1,2 +1,6 @@
-# The_After_Last_Day
-The After Last Day is an isometric open-world survival game with an engaging story mode, developed entirely in Java using the LWJGL 2.x library and the OpenGL API. With a focus on accessibility and performance, the game is designed to be compatible with computers equipped with OpenGL 1.5, ensuring a broad player base.
+The After Last Day
+Isometric open-world survival game with a story mode.
+
+This project is a game in development, created entirely in Java, using the LWJGL 2.x library and the OpenGL API. To maximize compatibility, the game is optimized to run on systems supporting OpenGL 1.5.
+
+Status: Solo project in active development.
