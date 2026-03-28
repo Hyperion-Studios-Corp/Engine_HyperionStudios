@@ -4,7 +4,7 @@ Engine gráfica autoral desenvolvida em Java utilizando LWJGL, com suporte a ren
 
 - [Versões](../../releases/tag/Engine)
 
-[📌 Última versão (v0.1.0)](../../releases/tag/v0.1.0)
+[📌 Última versão (v0.1.0)](../../releases/tag/v0.1.0-PreBuild)
 
 ## 🚀 Funcionalidades
 
