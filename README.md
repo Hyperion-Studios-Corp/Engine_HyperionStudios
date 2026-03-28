@@ -2,7 +2,9 @@
 
 Engine gráfica autoral desenvolvida em Java utilizando LWJGL, com suporte a renderização 2D/3D, mapas isométricos e sistema próprio de animação.
 
-- [Versões](https://github.com/Hyperion-Studios-Corp/Engine_HyperionStudios/releases/tag/Engine)
+- [Versões](../../releases/tag/Engine)
+
+[📌 Última versão (v0.1.0)](../../releases/tag/v0.1.0)
 
 ## 🚀 Funcionalidades
 
