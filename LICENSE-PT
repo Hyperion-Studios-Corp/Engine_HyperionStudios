@@ -1,35 +1,50 @@
 Licença da Hyperion Engine (Custom)
+Versão 1.0
 
 Copyright (c) 2026 João Vitor
 
-A permissão é concedida para uso deste software sob as seguintes condições:
+1. Concessão de Licença
 
-Permissões:
+É concedida permissão a qualquer indivíduo ou entidade para usar este software com o objetivo de desenvolver aplicações, incluindo projetos comerciais, sujeito às limitações definidas nesta licença.
 
-✔ É permitido utilizar a engine para desenvolvimento de jogos, incluindo uso comercial.
-✔ É permitido modificar o código fonte para uso pessoal ou interno.
-✔ É permitido estudar e analisar o código.
+2. Usos Permitidos
 
-Restrições:
+Você pode:
+- Utilizar o software para desenvolver jogos e aplicações, inclusive comerciais.
+- Modificar o código-fonte para uso pessoal, privado ou interno.
+- Estudar, analisar e aprender com o código.
 
-❌ É proibida a redistribuição do código fonte, modificado ou não, sem autorização explícita do autor.
-❌ É proibida a venda, sublicenciamento ou distribuição da engine.
-❌ É proibido utilizar o código para criar engines concorrentes ou versões públicas derivadas sem autorização prévia.
+3. Restrições
 
-Forks e Versões Derivadas:
+Você NÃO pode:
+- Redistribuir, publicar, sublicenciar ou disponibilizar o código-fonte a terceiros, modificado ou não, sem autorização prévia por escrito do autor.
+- Vender, licenciar ou distribuir comercialmente a engine.
+- Usar este software para criar engines concorrentes, frameworks ou derivados públicos sem autorização.
+- Criar forks públicos sem permissão.
 
-✔ Modificações locais são permitidas livremente.
-✔ Forks públicos, versões distribuídas ou derivados oficiais da engine exigem autorização prévia do autor.
-✔ O autor se reserva o direito de aprovar, rejeitar ou oficializar versões derivadas.
+4. Forks e Derivados
 
-Propriedade:
+- Modificações locais e privadas são permitidas.
+- Qualquer distribuição pública requer autorização prévia por escrito.
+- O autor reserva o direito de aprovar ou rejeitar derivados.
 
-Todos os direitos sobre o código fonte permanecem com o autor original.
-Esta licença não concede direitos de propriedade sobre a engine.
+5. Propriedade
 
-Responsabilidade:
+Todos os direitos permanecem com o autor original.
+Esta licença não concede propriedade sobre o software.
 
-Este software é fornecido "como está", sem garantias de qualquer tipo.
-O autor não se responsabiliza por quaisquer danos causados pelo uso deste software.
+6. Encerramento
+
+Esta licença será automaticamente encerrada se houver violação de seus termos.
+
+7. Isenção de Garantia
+
+O SOFTWARE É FORNECIDO "COMO ESTÁ", SEM GARANTIAS.
+
+8. Limitação de Responsabilidade
+
+O AUTOR NÃO SE RESPONSABILIZA POR DANOS.
+
+9. Contato
 
 Para permissões além desta licença, entre em contato com o autor.
