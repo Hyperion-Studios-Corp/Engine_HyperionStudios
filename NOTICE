@@ -1,0 +1,72 @@
+Project Version: 0.1.0  
+License File: See LICENSE file in the root directory
+
+Hyperion Engine
+Copyright (c) 2026 João Vitor
+
+This product includes software developed by João Vitor.
+
+This project is licensed under the Hyperion Engine License (Custom).
+You may not use this software except in compliance with the terms defined in the license.
+
+---
+
+### Project Information
+
+Hyperion Engine is a custom graphics engine developed in Java using LWJGL,
+designed to support 2D and 3D rendering, isometric maps, and a custom animation system.
+
+---
+
+### Third-Party Notices
+
+This project may include or depend on third-party libraries and tools, including but not limited to:
+
+* LWJGL (Lightweight Java Game Library)
+
+Each third-party component remains under its respective license.
+
+---
+
+### Disclaimer
+
+This software is provided "as is", without warranty of any kind, express or implied,
+including but not limited to the warranties of merchantability, fitness for a particular purpose,
+and noninfringement.
+
+---
+
+## 🇧🇷 Versão em Português
+
+Hyperion Engine
+Copyright (c) 2026 João Vitor
+
+Este produto inclui software desenvolvido por João Vitor.
+
+Este projeto está licenciado sob a Hyperion Engine License (Custom).
+Você não pode utilizar este software exceto em conformidade com os termos definidos na licença.
+
+---
+
+### Informações do Projeto
+
+Hyperion Engine é uma engine gráfica autoral desenvolvida em Java utilizando LWJGL,
+com suporte a renderização 2D e 3D, mapas isométricos e um sistema de animação próprio.
+
+---
+
+### Avisos de Terceiros
+
+Este projeto pode incluir ou depender de bibliotecas e ferramentas de terceiros, incluindo, mas não se limitando a:
+
+* LWJGL (Lightweight Java Game Library)
+
+Cada componente de terceiros permanece sob sua respectiva licença.
+
+---
+
+### Aviso Legal
+
+Este software é fornecido "como está", sem garantia de qualquer tipo, expressa ou implícita,
+incluindo, mas não se limitando a garantias de comercialização, adequação a um propósito específico
+e não violação.
