@@ -1,3 +1,9 @@
+## License
+
+This project is licensed under the Apache License 2.0.
+
+© 2026 João Vitor
+
 # Hyperion Engine
 
 Engine gráfica autoral desenvolvida em Java utilizando LWJGL, com suporte a renderização 2D/3D, mapas isométricos e sistema próprio de animação.
@@ -57,7 +63,7 @@ Desenvolver uma engine própria para jogos isométricos com controle total sobre
 
 ## 📸 Demonstração
 
-(Coloque prints ou vídeo aqui)
+
 
 ## 📌 Status
 
