@@ -1,35 +1,53 @@
 Hyperion Engine License (Custom)
+Version 1.0
 
 Copyright (c) 2026 João Vitor
 
-Permission is hereby granted to use this software under the following conditions:
+1. Grant of License
 
-Permissions:
+Permission is hereby granted to any individual or entity to use this software for the purpose of developing applications, including commercial projects, subject to the limitations defined in this license.
 
-✔ You are allowed to use the engine to develop games, including for commercial purposes.
-✔ You are allowed to modify the source code for personal or internal use.
-✔ You are allowed to study and analyze the code.
+2. Permitted Uses
 
-Restrictions:
+You are allowed to:
+- Use the software to develop games and applications, including for commercial purposes.
+- Modify the source code for personal, private, or internal use.
+- Study, analyze, and learn from the code.
 
-❌ Redistribution of the source code, whether modified or unmodified, is strictly prohibited without explicit permission from the author.
-❌ Selling, sublicensing, or distributing the engine is prohibited.
-❌ Using the code to create competing engines or publicly distributed derivatives is prohibited without prior authorization.
+3. Restrictions
 
-Forks and Derived Versions:
+You are NOT allowed to:
+- Redistribute, publish, sublicense, or make the source code available to third parties, whether modified or unmodified, without prior written permission from the author.
+- Sell, license, or commercially distribute the engine itself.
+- Use this software or its source code to create competing engines, frameworks, or publicly distributed derivatives without explicit authorization.
+- Create public forks or derivative projects without permission.
 
-✔ Local modifications are allowed freely.
-✔ Public forks, distributed versions, or official derivatives of the engine require prior authorization from the author.
-✔ The author reserves the right to approve, reject, or officially recognize derived versions.
+4. Forks and Derivative Works
 
-Ownership:
+- Local and private modifications are permitted.
+- Any public distribution, fork, or derivative version requires prior written authorization from the author.
+- The author reserves the right to approve, reject, or officially recognize derivative works.
 
-All rights to the source code remain with the original author.
-This license does not grant ownership of the engine.
+5. Ownership
 
-Liability:
+All rights, title, and interest in and to the software remain the exclusive property of the author.
+This license does not grant ownership of the software.
 
-This software is provided "as is", without warranty of any kind.
-The author is not responsible for any damages caused by the use of this software.
+6. Termination
 
-For permissions beyond this license, contact the author.
+This license is automatically terminated if the user fails to comply with any of its terms.
+Upon termination, the user must cease all use of the software.
+
+7. Disclaimer of Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+
+8. Limitation of Liability
+
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY,
+WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+9. Contact
+
+For permissions beyond the scope of this license, contact the author.
