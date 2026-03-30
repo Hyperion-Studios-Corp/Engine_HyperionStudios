@@ -1,72 +1,76 @@
 # Hyperion Engine
 
-![License](https://img.shields.io/badge/license-Apache%202.0-blue)
+![License](https://img.shields.io/badge/license-Custom-blue)
 ![Version](https://img.shields.io/badge/version-0.1.0-green)
 ![Status](https://img.shields.io/badge/status-in%20development-orange)
 ![Java](https://img.shields.io/badge/Java-17-red)
 ![OpenGL](https://img.shields.io/badge/OpenGL-Legacy-lightgrey)
 
-Engine gráfica autoral desenvolvida em Java utilizando LWJGL, com suporte a renderização 2D/3D, mapas isométricos e sistema próprio de animação.
+A custom graphics engine developed in Java using LWJGL, featuring 2D/3D rendering, isometric maps, and a custom animation system.
+
+---
+
+## 🌍 Language
+
+➡️ Portuguese version: [README-PT.md](README-PT.md)
 
 ---
 
 ## 📦 Releases
 
-➡️ [Ver Releases](../../releases)
+➡️ [View Releases](../../releases)
 
-📌 Última versão: **v0.1.0**
+📌 Latest version: **v0.1.0**
 
 ---
 
-## 🚀 Funcionalidades
+## 🚀 Features
 
-* 🎨 Renderização 2D (SpriteBatch)
-* 🧊 Renderização 3D (OBJ e FBX)
-* 🗺️ Mapas isométricos (Tiled)
-* 🎥 Sistema de câmera
-* 🎮 Sistema de input (abstraído)
-* 🎞️ Animação FBX (curve-based)
-* 📂 Loader próprio:
+* 🎨 2D Rendering (SpriteBatch)
+* 🧊 3D Rendering (OBJ and FBX)
+* 🗺️ Isometric maps (Tiled)
+* 🎥 Camera system
+* 🎮 Input system (abstracted)
+* 🎞️ FBX animation (curve-based)
+* 📂 Custom loaders:
 
   * OBJ
   * FBX (ASCII)
-* ⚙️ Pipeline de assets customizado
-* 🧩 Arquitetura modular (Core + Backend)
+* ⚙️ Custom asset pipeline
+* 🧩 Modular architecture (Core + Backend)
 
 ---
 
-## 🧠 Arquitetura
-
-A engine é dividida em duas camadas principais:
+## 🧠 Architecture
 
 ### 🔹 Core
 
-* Lógica da engine
-* Matemática (Vector2, Vector3)
-* Sistema de cena e entidades
+* Engine logic
+* Math (Vector2, Vector3)
+* Scene and entity system
 * Parsers (FBX, OBJ, Tiled)
-* Sistema de animação
+* Animation system
 
 ### 🔹 Desktop Backend
 
 * LWJGL (render/input)
 * OpenGL
-* Gerenciamento de janela
+* Window management
 
 ---
 
-## 🔄 Portabilidade
+## 🔄 Portability
 
-Preparada para futuras expansões:
+Designed for future expansion:
 
 * 📱 Android
 * 🎮 OpenGL ES
 * 🪟 DirectX
-* Outros backends
+* Other backends
 
 ---
 
-## 📦 Tecnologias
+## 📦 Technologies
 
 * Java 17
 * LWJGL 2.9.3
@@ -74,48 +78,40 @@ Preparada para futuras expansões:
 
 ---
 
-## 🎮 Objetivo
+## 🎮 Goal
 
-Criar uma engine própria focada em jogos isométricos, com controle total sobre:
+To build a custom engine focused on isometric games, with full control over:
 
-* Renderização
+* Rendering
 * Assets
-* Animação
-* Arquitetura
-
----
-
-## 📸 Demonstração
-
-> Em breve...
+* Animation
+* Architecture
 
 ---
 
 ## 📌 Status
 
-🚧 Em desenvolvimento ativo
+🚧 Actively in development
 
 ---
 
-## 🤝 Contribuição
+## 🤝 Contributing
 
-Contribuições são bem-vindas!
+Contributions are welcome!
 
-1. Fork o projeto
-2. Crie uma branch (`feature/minha-feature`)
-3. Commit suas mudanças
-4. Abra um Pull Request
+1. Fork the project
+2. Create a branch (`feature/my-feature`)
+3. Commit your changes
+4. Open a Pull Request
+
+⚠️ Public forks and redistribution require prior authorization (see LICENSE).
 
 ---
 
 ## 📜 License
 
-This project is licensed under the Apache License 2.0.
+This project uses a custom license.
+
+See the `LICENSE` file for details.
 
 © 2026 João Vitor
-
----
-
-## 🧑‍💻 Autor
-
-**João Vitor**
