@@ -1,16 +1,15 @@
-## License
-
-This project is licensed under the Apache License 2.0.
-
-© 2026 João Vitor
-
 # Hyperion Engine
 
 Engine gráfica autoral desenvolvida em Java utilizando LWJGL, com suporte a renderização 2D/3D, mapas isométricos e sistema próprio de animação.
 
-[📦 Ver Releases](https://github.com/Hyperion-Studios-Corp/Engine_HyperionStudios/tags)
+---
 
-[📌 Última versão (v0.1.0)](../../releases/tag/v0.1.0-PreBuild)
+## 📦 Releases
+➡️ Ver Releases
+
+📌 Última versão: **v0.1.0**
+
+---
 
 ## 🚀 Funcionalidades
 
@@ -18,59 +17,79 @@ Engine gráfica autoral desenvolvida em Java utilizando LWJGL, com suporte a ren
 - Renderização 3D (OBJ e FBX)
 - Suporte a mapas isométricos (Tiled)
 - Sistema de câmera
-- Sistema de input (mouse/teclado com abstração para futuras plataformas)
+- Sistema de input (abstraído para múltiplas plataformas)
 - Sistema de animação FBX (curve-based)
-- Loader próprio de:
+- Loader próprio:
   - OBJ
   - FBX (ASCII)
 - Pipeline de assets customizado
 - Arquitetura modular (Core + Desktop Backend)
 
+---
+
 ## 🧠 Arquitetura
 
-A engine foi projetada com separação entre:
+A engine foi projetada com separação clara entre camadas:
 
-- **Core**
-  - lógica da engine
-  - matemática (Vector2, Vector3)
-  - cena, entidades
-  - parsers (FBX, OBJ, Tiled)
-  - sistema de animação
+### 🔹 Core
+- Lógica da engine
+- Matemática (Vector2, Vector3)
+- Sistema de cena e entidades
+- Parsers (FBX, OBJ, Tiled)
+- Sistema de animação
 
-- **Desktop Backend**
-  - implementação LWJGL
-  - input (Keyboard/Mouse)
-  - render OpenGL
-  - gerenciamento de janela
+### 🔹 Desktop Backend
+- Implementação com LWJGL
+- Input (Keyboard/Mouse)
+- Renderização OpenGL
+- Gerenciamento de janela
 
-Essa separação permite futura portabilidade para:
+---
+
+## 🔄 Portabilidade
+
+A arquitetura permite expansão futura para:
+
 - Android
-- outros backends gráficos (ex: OpenGL ES, DirectX)
+- OpenGL ES
+- DirectX
+- Outros backends
+
+---
 
 ## 📦 Tecnologias
 
 - Java 17
 - LWJGL 2.9.3
-- OpenGL (pipeline legacy)
+- OpenGL (Legacy Pipeline)
+
+---
 
 ## 🎮 Objetivo
 
-Desenvolver uma engine própria para jogos isométricos com controle total sobre:
-- renderização
-- assets
-- animação
-- arquitetura
+Desenvolver uma engine própria focada em jogos isométricos, com controle total sobre:
 
-## 📸 Demonstração
+- Renderização
+- Assets
+- Animação
+- Arquitetura
 
-
+---
 
 ## 📌 Status
 
-Em desenvolvimento ativo.
+🚧 Em desenvolvimento ativo
+
+---
+
+## 📜 License
+
+This project is licensed under the Apache License 2.0.
+
+© 2026 João Vitor
+
+---
 
 ## 🧑‍💻 Autor
 
-João Vítor - ( 21 anos )
-
-Celular: +55 (51) 99293-7247
+**João Vitor**
